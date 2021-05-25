@@ -8,9 +8,9 @@ Meetings are announced on the [meetup page](https://www.meetup.com/Scala-Berlin-
 
 ## Proposals
 
-Proposals should include a title and a short description of the talk, as well as preferred date(s). See an example here. 
+Proposals should include a title and a short description of the talk, as well as preferred date(s). [See an example proposal](https://github.com/scala-berlin-bb/scala-berlin-talk-proposals/issues/1). 
 
-We are a very technical user group so we don't entertain sales-pitches. Any<sup><b>1</b></sup> topic that is remotely related to Scala is very welcome.  
+No sales-pitches, please. Any<sup><b>1</b></sup> topic that is remotely related to Scala is very welcome.  
 
 ## Voting
 
